@@ -45,7 +45,7 @@ const IconBadge = ({ icon }) => (
 );
 
 export default function DupeshopLandingPage() {
-  const whatsappNumber = "27800000000"; // Replace with The Dupeshop ZA WhatsApp number
+  const whatsappNumber = "27794427393";
   const whatsappLink = createWhatsAppLink(whatsappNumber);
 
   const categories = [
