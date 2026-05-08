@@ -105,8 +105,8 @@ export default function DupeshopLandingPage() {
                 <div className="flex h-full items-center justify-center rounded-[1.5rem] border border-yellow-500/20 bg-black/70 text-center">
                   <div className="px-6">
                     <div className="mx-auto mb-6 flex h-24 w-24 items-center justify-center rounded-full border border-yellow-500/40 bg-yellow-500/10 text-5xl">✦</div>
-                    <p className="text-3xl font-semibold text-yellow-400">Luxury Scent</p>
-                    <p className="mt-3 text-zinc-400">Replace this block with your hero perfume bottle image.</p>
+                    <p className="text-3xl font-semibold text-yellow-400">Lattafa Khamrah Qahwa</p>
+                    <p className="mt-3 text-zinc-400">The perfect warm luxury gift this Mother’s Day.</p>
                   </div>
                 </div>
               </div>
