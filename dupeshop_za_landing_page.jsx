@@ -105,8 +105,19 @@ export default function DupeshopLandingPage() {
                 <div className="flex h-full items-center justify-center rounded-[1.5rem] border border-yellow-500/20 bg-black/70 text-center">
                   <div className="px-6">
                     <div className="mx-auto mb-6 flex h-24 w-24 items-center justify-center rounded-full border border-yellow-500/40 bg-yellow-500/10 text-5xl">✦</div>
-                    <p className="text-3xl font-semibold text-yellow-400">Lattafa Khamrah Qahwa</p>
-                    <p className="mt-3 text-zinc-400">The perfect warm luxury gift this Mother’s Day.</p>
+                    <img
+  src="/src/images/khamrah-qahwa.png"
+  alt="Lattafa Khamrah Qahwa"
+  className="mx-auto w-64 drop-shadow-2xl"
+/>
+
+<p className="mt-6 text-3xl font-semibold text-yellow-400">
+  Lattafa Khamrah Qahwa
+</p>
+
+<p className="mt-3 text-zinc-400">
+  Warm coffee, vanilla and cinnamon luxury — the perfect Mother’s Day gift.
+</p>
                   </div>
                 </div>
               </div>
